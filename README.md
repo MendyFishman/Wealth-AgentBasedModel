@@ -20,3 +20,6 @@ Wealth Distribution Patterns: The simulation will generate insights into the wea
 poor precentage, maximum wealth and the precentage of the wealth.
 
 Impact of Interactions: By studying the consequences of various agent interactions, the mini project aims to identify which types of interactions contribute most significantly to wealth inequality or economic well-being.
+
+## Additional Documentation:
+For the consequences of the model by different parameters, please refer to the word file (wealth_model.docx).
